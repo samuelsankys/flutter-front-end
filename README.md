@@ -3,6 +3,7 @@
 A new Flutter project.
 
 ## Getting Started
+``flutter run -d chrome`` 
 
 This project is a starting point for a Flutter application.
 
